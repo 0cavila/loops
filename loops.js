@@ -15,14 +15,18 @@ for (let i = start; let i<= limit ; i = i + diff){
     sum = sum + i;
 return diff
 }
-
+ 
 
 
 
 // While-loop function
 
-function multiplicationPatternSum(){
-m 
+function multiplicationPatternSum(star, factor, max){
+let sum = start 
+let k=1 
+while (k <= max)
+sum=  sum + factor*k;
+k= factor*k 
 
 }
 
